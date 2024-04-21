@@ -1,0 +1,88 @@
+
+.oxygen-mono-regular {
+    font-family: "Oxygen Mono", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  
+  .plus-jakarta-sans-regular {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+
+
+  
+  .plus-jakarta-sans-light {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .b612-mono-regular {
+    font-family: "B612 Mono", monospace;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .b612-mono-bold {
+    font-family: "B612 Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .b612-mono-regular-italic {
+    font-family: "B612 Mono", monospace;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .b612-mono-bold-italic {
+    font-family: "B612 Mono", monospace;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  
+  
+  .dm-mono-light {
+      font-family: "DM Mono", monospace;
+      font-weight: 300;
+      font-style: normal;
+    }
+    
+    .dm-mono-light-italic {
+      font-family: "DM Mono", monospace;
+      font-weight: 300;
+      font-style: italic;
+    }
+    
+    .dm-mono-regular {
+      font-family: "DM Mono", monospace;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+    .dm-mono-regular-italic {
+      font-family: "DM Mono", monospace;
+      font-weight: 400;
+      font-style: italic;
+    }
+    
+    .dm-mono-medium {
+      font-family: "DM Mono", monospace;
+      font-weight: 500;
+      font-style: normal;
+    }
+    
+    .dm-mono-medium-italic {
+      font-family: "DM Mono", monospace;
+      font-weight: 500;
+      font-style: italic;
+    }
+    
